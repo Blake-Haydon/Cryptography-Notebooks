@@ -8,8 +8,8 @@
 ## Secret Sharing
 
 - [Distributed Point Functions](https://github.com/Blake-Haydon/Distributed-Point-Functions): An application of Function Secret Sharing (FSS)
-- [Shamir Secret Sharing](https://github.com/Blake-Haydon/Shamir-Secret-Sharing): Threshold
+- [Shamir Secret Sharing](https://github.com/Blake-Haydon/Shamir-Secret-Sharing): Share a secret between `n` parties where `t` of them are required to reconstruct the secret
 
 ## Numerical Tools
 
-- [Polynomial Interpolation](https://github.com/Blake-Haydon/Polynomial-Interpolation)
+- [Polynomial Interpolation](https://github.com/Blake-Haydon/Polynomial-Interpolation): Interpolate a polynomial from a set of points
