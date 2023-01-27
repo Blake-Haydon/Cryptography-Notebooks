@@ -13,3 +13,7 @@
 ## Numerical Tools
 
 - [Polynomial Interpolation](https://github.com/Blake-Haydon/Polynomial-Interpolation): Interpolate a polynomial from a set of points
+
+## Protocols
+
+- [Private Multiparty State Machine](https://github.com/Blake-Haydon/Private-Multiparty-State-Machine): A novel protocol for running a state machine where inputs and state are private throughout execution (only the final state is public)
