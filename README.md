@@ -21,3 +21,7 @@ If there are any mistakes or improvements that can be made, please let me know!
 ## Protocols
 
 - [Private Multiparty State Machine](https://github.com/Blake-Haydon/Private-Multiparty-State-Machine): A novel protocol for running a state machine where inputs and state are private throughout execution (only the final state is public)
+
+## Challenges
+
+- [Cryptopals Solutions](https://github.com/Blake-Haydon/Cryptopals-Solutions): Solutions to the Cryptopals challenges
