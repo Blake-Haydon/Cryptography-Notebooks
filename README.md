@@ -1,5 +1,9 @@
 # Cryptography Notebooks
 
+This repository contains a collection of Jupyter notebooks that I used to learn about cryptography. The notebooks cover various cryptographic concepts and algorithms, implemented in python (and sometimes rust). The goal of these notebooks is to provide a hands-on learning experience for myself. Hopefully, these can also be a resource for others to learn about cryptography!
+
+If there are any mistakes or improvements that can be made, please let me know!
+
 ## Hash Based Signatures
 
 - [Lamport Signatures](https://github.com/Blake-Haydon/Lamport-Signatures): One-time signatures
