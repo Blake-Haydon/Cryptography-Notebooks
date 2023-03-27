@@ -18,6 +18,10 @@ If there are any mistakes or improvements that can be made, please let me know!
 
 - [Polynomial Interpolation](https://github.com/Blake-Haydon/Polynomial-Interpolation): Interpolate a polynomial from a set of points
 
+## Coding Theory
+
+- [Linear Codes](https://github.com/Blake-Haydon/Linear-Codes): Exploration of various linear codes including error correcting codes and erasure codes
+
 ## Protocols
 
 - [Private Multiparty State Machine](https://github.com/Blake-Haydon/Private-Multiparty-State-Machine): A novel protocol for running a state machine where inputs and state are private throughout execution (only the final state is public)
